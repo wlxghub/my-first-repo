@@ -1,0 +1,14 @@
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 依赖目录
+node_modules/
+venv/
+__pycache__/
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
